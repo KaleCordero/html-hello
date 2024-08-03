@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+.post{
+    background-color: ghostwhite;
+    width: 50%;
+    margin: auto;
+    font-family:sans-serif;
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+img{
+    width: 100%;
+}
+p{
+    padding: 15px;
+}
